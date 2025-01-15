@@ -1,6 +1,6 @@
 # Welcome to MJ'Zs GitHub! 👋
 
-Hi there! I'm MJ'Zs, a passionate and creative developer specializing in **2D game development** and dabbling in **cybersecurity**. My projects are inspired by the aesthetics and mechanics of games like **Hollow Knight**, and I enjoy crafting immersive gameplay experiences with a touch of innovation. I also explore the fascinating world of cybersecurity to ensure robust and secure systems.  
+Hi there! I'm MJ'Zs, a passionate and creative developer specializing in **2D game development** and dabbling in **cybersecurity**. My projects are inspired by the aesthetics and mechanics of games like "Metroidvania" genere , and I enjoy crafting immersive gameplay experiences with a touch of innovation. I also explore the fascinating world of cybersecurity to ensure robust and secure systems.  
 
 ---
 
