@@ -1,48 +1,27 @@
-# Welcome to MJ'Zs GitHub! 👋
+# 💫 About Me:
+Hi there! I'm MJ'Zs, a passionate and creative developer specializing in 2D game development and dabbling in cybersecurity. My projects are inspired by the aesthetics and mechanics of games like "Metroidvania" genere , and I enjoy crafting immersive gameplay experiences with a touch of innovation. I also explore the fascinating world of cybersecurity to ensure robust and secure systems.
 
-Hi there! I'm MJ'Zs, a passionate and creative developer specializing in **2D game development** and dabbling in **cybersecurity**. My projects are inspired by the aesthetics and mechanics of games like "Metroidvania" genere , and I enjoy crafting immersive gameplay experiences with a touch of innovation. I also explore the fascinating world of cybersecurity to ensure robust and secure systems.  
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mihir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MihirxAiDev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mihir Juwekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirj010105@gmail.com) 
 
-## 🎮 What I Do  
-- **Game Development:** Creating captivating 2D games with unique mechanics and polished designs.  
-- **Unity Specialist:** Building gameplay systems, animations, particle effects, and more using Unity.  
-- **Cybersecurity Enthusiast:** Exploring security techniques and concepts to improve my technical skills.  
-- **Creative Coding:** Writing clean, maintainable scripts in C# for seamless gameplay.  
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MihirJ01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MihirJ01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MihirJ01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MihirJ01&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌟 Key Projects & Features
-### Hollow Knight-Inspired Game  
-- **Dynamic Environments:** Mixed biomes like jungle, icy, and underground areas.  
-- **Player Abilities:** Dashing, shooting, melee combos, and responsive movement mechanics.  
-- **Interactive Elements:** Lever systems, portals, collectible items, and more.  
-- **Save/Load Systems:** Multiple save slots for players to manage their progress.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Cybersecurity Experiments  
-- **Secure Game Systems:** Applying basic security principles to protect game data and player profiles.  
-- **Learning Exploits:** Researching vulnerabilities and methods to secure code against them.  
-- **Encryption & Hashing:** Implementing secure methods to protect sensitive information.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MihirJ01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MihirJ01&icon=2&color=4)](https://visitcount.itsvg.in)
 
-## 🚀 Skills & Tools
-- **Game Engines:** Unity (2D focus with Cinemachine and global lighting).  
-- **Languages:** C# for scripting gameplay features and mechanics.  
-- **Cybersecurity Basics:** Familiar with encryption, secure coding practices, and vulnerability testing.  
-- **UI Development:** Creating intuitive, responsive, and mobile-compatible user interfaces.  
-- **Art & Animation:** Adding visual flair through animations, particle systems, and light effects.  
-
----
-
-## 🌱 Always Learning
-I'm always exploring new ways to improve gameplay mechanics, design, and security. Whether it's adding combo moves, refining player animations, securing game systems, or diving into cybersecurity principles, I’m committed to bringing my creative and technical visions to life.  
-
----
-
-## 💡 Let's Connect!
-Feel free to check out my repositories, share feedback, or contribute to any projects that interest you. Collaboration and learning are key to creating awesome games and secure systems!  
-
----
-
-⭐ **"Game development and cybersecurity are my tools to create, protect, and innovate!"**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
