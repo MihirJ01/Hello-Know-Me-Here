@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there! I'm MJ'Zs, a passionate and creative developer specializing in 2D game development and dabbling in cybersecurity. My projects are inspired by the aesthetics and mechanics of games like "Metroidvania" genere , and I enjoy crafting immersive gameplay experiences with a touch of innovation. I also explore the fascinating world of cybersecurity to ensure robust and secure systems.
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mihir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MihirxAiDev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mihir Juwekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirj010105@gmail.com) 
